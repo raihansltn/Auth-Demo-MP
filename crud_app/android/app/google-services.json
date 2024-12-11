@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "875680162335",
+    "project_id": "savvy-surge-444401-p3",
+    "storage_bucket": "savvy-surge-444401-p3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875680162335:android:3f3b199aefe3641c1f6b2a",
+        "android_client_info": {
+          "package_name": "com.example.crud_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875680162335-62j9ur4uplk5jn1htpciu0pprkpt3ndl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crud_app",
+            "certificate_hash": "e3d4433e8a79de3968e3d5928a860a64107f907f"
+          }
+        },
+        {
+          "client_id": "875680162335-vo81sql7q65o98pr0ibu77vblaiole4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-CT34LYlEfErt16PRiV1r7eqU-d1sbFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875680162335-bl7e02gtrslr4s11sq3b8uuhvc3nkhud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
